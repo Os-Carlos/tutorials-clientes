@@ -1,8 +1,8 @@
 module.exports = {
-    HOST: "localhost",
-    USER: "root",
-    PASSWORD: "root",
-    DB: "postgres",
+    HOST: "ep-dark-queen-11405827-pooler.us-east-1.postgres.vercel-storage.com",
+    USER: "default",
+    PASSWORD: "kMxGY7Vgz0Kf",
+    DB: "verceldb",
     dialect: "postgres",
     pool: {
         max: 5,
