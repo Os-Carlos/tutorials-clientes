@@ -5,7 +5,7 @@ const cors = require("cors");
 const app = express();
 
 var corsOptions = {
-    origin: "https://tutorials-clientes.vercel.app/tutorials"
+    origin: "localhost:1235/api"
 };
 
 app.use(cors(corsOptions));
